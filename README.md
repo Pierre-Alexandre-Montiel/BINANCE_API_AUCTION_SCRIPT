@@ -1,4 +1,4 @@
-# BINANCE_AUCTION_SCRIPT!
+₿ # BINANCE_AUCTION_SCRIPT! ₿
 
 Script python de prévision basé sur les datas des 4 dernieres annees.
 
